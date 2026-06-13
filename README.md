@@ -5,21 +5,12 @@
 1. My first higher education was a bachelor's degree from the Moscow Aviation Institute in "Systems Analysis and Control" (Applied Informatics), and I graduated in 2029.
 
 📚 Books read:
-1. Grokking Deep Learning by Andrew W. Trask
+1. "Grokking Deep Learning" by Andrew W. Trask
 
 📩 Contact me:
 - telegram: @Lanesio
 - email: lanesiowith@gmail.com
 - kaggle: https://www.kaggle.com/lanesqwe
-
----
-
-
-
-
-
-
-
 
 🐕 My pet-projects:
 <table>
