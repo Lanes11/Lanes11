@@ -7,10 +7,6 @@
 📚 Books read:
 1. "Grokking Deep Learning" by Andrew W. Trask
 
-📩 Contact me:
-- telegram: @Lanesio
-- email: lanesiowith@gmail.com
-
 🐕 My pet-projects:
 <table>
 <tr>
