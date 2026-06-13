@@ -10,7 +10,6 @@
 📩 Contact me:
 - telegram: @Lanesio
 - email: lanesiowith@gmail.com
-- kaggle: https://www.kaggle.com/lanesqwe
 
 🐕 My pet-projects:
 <table>
