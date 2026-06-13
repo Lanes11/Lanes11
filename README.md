@@ -4,11 +4,8 @@
 👨‍💻 About me:
 1. My first higher education was a bachelor's degree from the Moscow Aviation Institute in "Systems Analysis and Control" (Applied Informatics), and I graduated in 2029.
 
-
 📚 Books read:
 1. Grokking Deep Learning by Andrew W. Trask
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanes11)](https://github.com/anuraghazra/github-readme-stats)
 
 📩 Contact me:
 telegram: @Lanesio
@@ -17,8 +14,7 @@ kaggle: https://www.kaggle.com/lanesqwe
 
 ---
 
-List of my projects
-Pet-projects
+🐕 My pet-projects:
 <table>
 <tr>
   <th>Name</th>
