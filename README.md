@@ -3,8 +3,7 @@
 
 👨‍💻 About me:
 1. In 2025, participated in the final stage of the All-Russian School Olympiad in Robotics, programming Arduino-based systems.
-2. I received a Bachelor's degree in Systems Analysis and Control (Applied Informatics) from Moscow Aviation Institute and graduated in 2029.
-
+2. I am currently pursuing a Bachelor's degree in Systems Analysis and Control (Applied Informatics) at Moscow Aviation Institute, with an expected graduation date of 2029.
 
 📚 Books read:
 1. "Grokking Deep Learning" by Andrew W. Trask
