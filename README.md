@@ -16,7 +16,7 @@
 <tr>
   <th>Name</th>
   <th>Description</th>
-  <th>Statusв</th>
+  <th>Status</th>
 </tr>
 <tr>
   <td><a href = "https://github.com/Lanes11/heart_disease_kaggle">Predicting Heart Disease</a></td>
