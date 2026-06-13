@@ -4,5 +4,30 @@
 👨‍💻 About me:
 1. My first higher education was a bachelor's degree from the Moscow Aviation Institute in "Systems Analysis and Control" (Applied Informatics), and I graduated in 2029.
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/bookstack.svg/blue" /> Books read:
+📚 Books read:
 1. Grokking Deep Learning by Andrew W. Trask
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+📩 Contact me:
+telegram: @Lanesio
+email: lanesiowith@gmail.com
+kaggle: https://www.kaggle.com/lanesqwe
+---
+Training certificates:
+
+---
+<summary>Список моих проектов</summary>
+Pet-projects
+<table>
+<tr>
+  <th>Name</th>
+  <th>Description</th>
+  <th>Statusв</th>
+</tr>
+<tr>
+  <td><a href = ""></a></td>
+  <td></td>
+  <td>/td>
+</tr>
+</table>
