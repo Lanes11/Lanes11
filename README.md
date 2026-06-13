@@ -8,9 +8,9 @@
 1. Grokking Deep Learning by Andrew W. Trask
 
 📩 Contact me:
-telegram: @Lanesio
-email: lanesiowith@gmail.com
-kaggle: https://www.kaggle.com/lanesqwe
+- telegram: @Lanesio
+- email: lanesiowith@gmail.com
+- kaggle: https://www.kaggle.com/lanesqwe
 
 ---
 
