@@ -27,7 +27,7 @@ Pet-projects
 </tr>
 <tr>
   <td><a href = "https://github.com/Lanes11/heart_disease_kaggle">Predicting Heart Disease</a></td>
-  <td>blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla</td>
+  <td>blablablablablablablablablablablablablablablablablablablablablablabla</td>
   <td>In progress</td>
 </tr>
 </table>
