@@ -17,7 +17,7 @@
 </tr>
 <tr>
   <td><a href = "https://github.com/Lanes11/heart_disease_kaggle">Predicting Heart Disease</a></td>
-  <td>blablablablablablablablablablablablablablablablablablablablablablabla</td>
+  <td>The model, which can predicte heart disease for something info.</td>
   <td>In progress</td>
 </tr>
 </table>
